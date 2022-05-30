@@ -1,0 +1,45 @@
+
+#schoolname{
+    font-size: 50px;
+    font-family: cursive;
+    color: #97caef;
+    text-align: center;
+    white-space: nowrap;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+   
+  
+    
+  
+}
+#logo{
+   align-content: flex-start;
+    width: 150px;
+    height: 150px;
+    white-space: nowrap;
+   
+}
+    #div1
+{
+   background-color: #7395AE;
+    width:auto;
+    height:max-content;
+    border: 2px;
+    margin: 5px;
+    padding: 5px;
+}
+#button1{
+    background-color: #557A95;
+    color: antiquewhite;
+    columns: auto;
+    width: auto;
+    height: 20pxs;
+}
+#button1:hover{
+    background-color: aliceblue;
+    width: auto;
+    height: 20pxs;
+    color: black;
+
+}
+
