@@ -29,20 +29,6 @@
     margin: 5px;
     padding: 5px;
 }
-#div2{
-    width: auto;
-    height: 50px;
-    background-color: lightblue;
-}
-#button1{
-    background-color: #557A95;
-    color: antiquewhite;
-    columns: auto;
-    width: auto;
-    height: 40px;
-    margin: 5px;
-    padding: 5px;
-}
 #button1:hover{
     background-color: aliceblue;
     width: auto;
